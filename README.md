@@ -1,6 +1,8 @@
 # Linguagens_de_Programacao
 Trabalho de Linguagens de Programação
 
+Deixei os comentários que eu fiz enquanto tentava entender o código.
+
 Para testar em Linux:
 
 1 - happy Parser.y
